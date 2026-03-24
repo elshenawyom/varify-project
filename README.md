@@ -1,6 +1,9 @@
 # BuiltWith to Looker Studio Translator & Automated Documentation
 
-This repository solves two interconnected problems: transforming complex BuiltWith data for analytics, and automating technical documentation through AI-powered agents.
+We solve two interconnected problems in Varify.io's production pipeline:
+
+- transforming complex BuiltWith data for analytics, and
+- automating technical documentation that is actually comprehensible.
 
 ---
 
